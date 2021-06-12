@@ -1,0 +1,6 @@
+name: goreleaser.yml
+description: goreleaser config
+values:
+  - name: main_path
+    description: main.go path
+    default: "./cmd/cmd.go"
