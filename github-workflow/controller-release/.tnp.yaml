@@ -2,4 +2,4 @@ name: release.yaml
 description: GitHub Workflow for executing build and release k8s custom controller
 values:
   - name: image_name
-    description: docker image name. ex: takutakahashi/foobar
+    description: "docker image name. ex: takutakahashi/foobar"

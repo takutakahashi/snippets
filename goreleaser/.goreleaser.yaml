@@ -7,7 +7,7 @@ before:
 builds:
   - env:
       - CGO_ENABLED=0
-    main: {{ .main_path }}
+    main: @@( .main_path )
     goos:
       - linux
       - windows
