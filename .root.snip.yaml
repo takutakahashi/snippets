@@ -1,0 +1,3 @@
+resources:
+  - goreleaser
+  - github-workflow/controller-release
