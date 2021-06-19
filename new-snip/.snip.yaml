@@ -1,0 +1,9 @@
+name: .snip.yaml
+description: new snippet
+values:
+  - name: name
+    description: snippet name
+    default: "new snippet"
+  - name: description
+    description: snippet desc
+    default: "good snip"

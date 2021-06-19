@@ -1,0 +1,6 @@
+name: @@( .name )
+description: @@( .description )
+values:
+#  - name: sample
+#    description: sample
+#    default: "sample"

@@ -1,3 +1,5 @@
-resources:
-  - goreleaser
-  - github-workflow/controller-release
+snippets:
+  - name: goreleaser
+  - name: github-workflow/controller-release
+  - name: go-cli
+  - name: new-snip

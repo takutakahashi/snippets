@@ -1,0 +1,6 @@
+name: go-cli-main.go
+description: main.go for go CLI Application
+values:
+  - name: app_name
+    description: app name
+    default: "new app"
