@@ -1,4 +1,5 @@
 name: goreleaser.yml
+output: .
 description: goreleaser config
 values:
   - name: main_path

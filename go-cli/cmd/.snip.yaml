@@ -1,4 +1,5 @@
 name: go-cli-main.go
+output: .
 description: main.go for go CLI Application
 values:
   - name: app_name
