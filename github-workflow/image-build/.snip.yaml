@@ -1,5 +1,5 @@
 name: build.yaml
-output: ./github/workflows
+output: ./.github/workflows
 description: GitHub Workflow for executing build OCI images
 values:
   - name: image_name
