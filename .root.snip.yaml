@@ -1,5 +1,6 @@
 snippets:
   - name: goreleaser
   - name: github-workflow/controller-release
+  - name: github-workflow/image-build
   - name: go-cli
   - name: new-snip
